@@ -1,0 +1,13 @@
+# Ignore Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore test binary
+test
+
+# Ignore miscellaneous files
+*.swp
+*~
