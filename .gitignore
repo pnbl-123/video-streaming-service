@@ -11,3 +11,5 @@ test
 # Ignore miscellaneous files
 *.swp
 *~
+
+**/DS_Store
